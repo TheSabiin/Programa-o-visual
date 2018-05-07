@@ -1,0 +1,10 @@
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\bin\Debug\netcoreapp2.0\calculadora.deps.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\bin\Debug\netcoreapp2.0\calculadora.runtimeconfig.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\bin\Debug\netcoreapp2.0\calculadora.runtimeconfig.dev.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\bin\Debug\netcoreapp2.0\calculadora.dll
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\bin\Debug\netcoreapp2.0\calculadora.pdb
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\obj\Debug\netcoreapp2.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\obj\Debug\netcoreapp2.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\obj\Debug\netcoreapp2.0\calculadora.AssemblyInfo.cs
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\obj\Debug\netcoreapp2.0\calculadora.dll
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\Calculadora\obj\Debug\netcoreapp2.0\calculadora.pdb
