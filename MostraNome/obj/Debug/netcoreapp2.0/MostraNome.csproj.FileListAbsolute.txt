@@ -1,0 +1,10 @@
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.deps.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.runtimeconfig.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.runtimeconfig.dev.json
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.dll
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.pdb
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.AssemblyInfoInputs.cache
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.AssemblyInfo.cs
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.dll
+C:\Users\John\Documents\TADS OPET\Programação Visual\Github\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.pdb
